@@ -1,0 +1,14 @@
+div.searchInput {
+    position: absolute;
+    right: 50%;
+    transform: translate(50%);
+    width: 20%;
+}
+
+
+input.searchInput__input {
+    background-color: #eaeaea;
+    padding: 10px;
+    border-radius: 10px;
+    width: 100%;
+}

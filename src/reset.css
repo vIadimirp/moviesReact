@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+ol, ul {
+    list-style: none;
+}
+a {
+    color: inherit;
+}
+body {
+    /* overflow-x: hidden; */
+    position: relative;
+    background-color: #fff;
+    min-height: 100vh;
+}
